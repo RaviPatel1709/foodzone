@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
 }
 
 import 'package:flutter/material.dart';
-
+ā
 import 'setting/new login,reg.dart';
 
 void main() => runApp(MyApp());
